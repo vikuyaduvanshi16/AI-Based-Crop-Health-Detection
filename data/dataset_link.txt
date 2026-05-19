@@ -1,2 +1,8 @@
 Dataset Source:
-https://drive.google.com/file/d/1zdLTlGFICQO60cvNw400-fCEF9rxtBMx/view?usp=drive_link
+TiHAN IIT Hyderabad Capstone Project Dataset
+
+Description:
+Synthetic drone-based multispectral agricultural dataset shared for academic capstone project work. The dataset contains vegetation indices and environmental features used for crop health classification and stress prediction.
+
+Dataset Access:
+Available only for academic/capstone use.
